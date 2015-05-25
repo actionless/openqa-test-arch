@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 7,
+      "width": 310,
+      "height": 90,
+      "type": "match"
+    },
+    {
+      "xpos": 84,
+      "ypos": 12,
+      "width": 225,
+      "height": 25,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop",
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-arch",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-DVD"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 9,
+      "width": 606,
+      "height": 342,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "bootloader",
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-arch",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-DVD"
+  ]
+}
